@@ -9,7 +9,6 @@
 - [Making a Robot Eye with JavaScript - or Magic of Computer Vision Unraveled](#making-a-robot-eye-with-javascript---or-magic-of-computer-vision-unraveled)
 - [Computer Vision, Robots, and Mobile Games.](#computer-vision-robots-and-mobile-games)
 - [Sparkly LEDs and Javascrpt](#sparkly-leds-and-javascrpt)
-- [](#)
 - [Web code and self exploration](#web-code-and-self-exploration)
 - [API design through the lens of photography](#api-design-through-the-lens-of-photography)
 - [Managing Packages](#managing-packages)
@@ -32,19 +31,21 @@
 
 > tw: [@makenai](http://twitter.com/makenai)
 
+> w: [Slides](http://bit.ly/crossyroadbot)
 * [tapster.io](www.tapster.io) - open source robot to test mobile devices - get made at maker space with 3d printing
 * [J5-Delta](https://github.com/makenai/j5-delta)
 * OpenCV - computer vision
 * wrote a finite state machine
   * conceptual model of behaviour
   * machina node - [https://www.npmjs.com/package/machina](https://www.npmjs.com/package/machina)
-* [slides](http://bit.ly/crossyroadbot)
 
 
 ## Sparkly LEDs and Javascrpt
 > **Russell Hay**
 
 > tw: [@russellhay](http://twitter.com/russellhay)
+
+> w: [Slides](http://RussTheAerialist/hsgfz-slides)
 
 * LEDs, similar to pixels
   * Neopixels
@@ -62,7 +63,6 @@
   * resistor on data line
   * calculate power usage
 * Johnny 5 and node-pixel
-* [Slides](http://RussTheAerialist/hsgfz-slides)
 
 ##
 > **Jenn Turner**
@@ -80,7 +80,6 @@
 
 * how technology affects our humanity
 * how we define our identity to self and others
-*
 
 ## API design through the lens of photography
 > **Bryan huges**
@@ -88,7 +87,6 @@
 > tw: [@nebrius](http://twitter.com/nebrius)
 
 * API - a defined contract between developers
-*
 
 
 ## Managing Packages

@@ -12,7 +12,7 @@
 - [Using WebGL](#using-webgl)
 - [In defense of static sites](#in-defense-of-static-sites)
 - [3rd party javascript](#3rd-party-javascript)
-- [Onboarding superhero](#onboarding-superhero)
+- [Automated Accesibility Testing](#automated-accesibility-testing)
 
 <!-- /MarkdownTOC -->
 
@@ -240,3 +240,9 @@
     * test for global variable leaks
     * run against lots of browsers - sauce labs, browser stack, testily
   * build a way to test new versions of your third party scripts against running versions of peoples' page - [charles](https://www.charlesproxy.com/), fiddler
+
+
+  ## Automated Accesibility Testing
+
+  * https://github.com/paypal/AATT
+  * https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb

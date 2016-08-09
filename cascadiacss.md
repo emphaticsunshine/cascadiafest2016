@@ -86,6 +86,8 @@ _Questions_
 * Separation of concerns (logic, data, structure, presentation)
 * Color styling for palette
   * using a map in Sass - key, value. `map-get` in sass - meaningful structure
+  * Example:
+  ![alt example](images/color-sass.png)
 * Make patterns the lazy option
 * Using markup preprocessors with templates
 
